@@ -1,2 +1,2 @@
 # smartcard-crypto-tool
-Showcase project of encryption/decryption using personal ID card
+Showcase how to encrypt/decrypt text, documents, pictures, emails... using Serbian personal ID card which have PKI installed by police department.
